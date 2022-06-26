@@ -45,3 +45,7 @@
 
 ========================================================================================
 https://github.com/jgraph/drawio-desktop/releases/tag/v16.5.1
+<ol> https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI  -- Azure Certification path
+<ol> https://dev.azure.com/girishpareekazpass01/girishaksproj001/_git/AKS -- Azure devops portal to setup the projects. 
+<ol> https://marketplace.visualstudio.com/items?itemName=ms-azuretools.mindaro2022
+<ol>
